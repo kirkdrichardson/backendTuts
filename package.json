@@ -4,8 +4,10 @@
   "description": "bundled learning exercises with answer files",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.1",
-    "morgan": "^1.9.0"
+    "morgan": "^1.9.0",
+    "pug": "^2.0.0-rc.4"
   },
   "devDependencies": {},
   "scripts": {
